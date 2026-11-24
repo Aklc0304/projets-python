@@ -1,0 +1,4 @@
+.venv/
+taches.txt
+__pycache__/
+.DS_Store
